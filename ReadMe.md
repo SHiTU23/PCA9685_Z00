@@ -6,7 +6,7 @@ Then check for its wiring and how it's connected to Arduino.
 To understand better you can check [this](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all).
 
 ## Wiring Hint
-![Wiring](https://www.google.com/search?q=pca9685&sxsrf=APq-WBusbUae4dv_Q5lxBhu6kIkc8KQgEg:1643662550332&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-j8WT8Nz1AhUF57sIHbcuB_4Q_AUoAXoECAEQAw#imgrc=iFGtyNosYs6ceM)
+![Wiring](https://s20.picofile.com/file/8447222642/wiring.png)
 
 Now you've learn a bit about PCA9685 it's time to try some thing more intereing.
 
