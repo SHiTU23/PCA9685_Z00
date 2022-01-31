@@ -3,7 +3,7 @@
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 
-#define Servo_pin 7
+#define Servo_pin 7 //// Servo is connected to 7th pin of pCA9685
 
 Adafruit_PWMServoDriver servo = Adafruit_PWMServoDriver();
 
