@@ -1,13 +1,13 @@
 # **Welcome to the PCA9685 Servo-motor driver tutorial:**
 
 
-### First of all you need to know what is PCA9685 and how it works.   
+#### First of all you need to know what is PCA9685 and how it works.   
 To do so, go to the _Doc_ directory and read the file named _**ServoMotor_Driver**_.  
 You can also check the _PCA9685 Datasheet_ which is located in the same directory.   
 
-### *Now you've learn a bit about PCA9685 it's time to try some thing more intereing.*  
+##### *Now you've learn a bit about PCA9685 it's time to try some thing more intereing.*  
 
-What you need to drive a servo motor by PCA9685 driver:
+### What you need to drive a servo motor by PCA9685 driver:
  - Arduino board
  - Servo motor
  - PCA9685
