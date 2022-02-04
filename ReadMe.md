@@ -1,4 +1,4 @@
-# **Welcome to the PCA9685 Servo-motor driver tutorial:**
+## **Welcome to the PCA9685 Servo-motor driver tutorial:**
 
 
 #### First of all you need to know what is PCA9685 and how it works.   
