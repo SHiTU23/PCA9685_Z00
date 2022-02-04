@@ -51,6 +51,6 @@ This code will convert entered desired anlgle to the appropriate pulse width.
    servo.setPWM(Servo_pin, 0, Duty); // setPWM(channel, on, off)
 
 ```
-_Now run the code and see how it works._
+_Now run the code and see how it works._   
 **Good luck**
 
