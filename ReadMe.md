@@ -2,8 +2,8 @@
 
 
 #### First of all you need to know what is PCA9685 and how it works.   
-To do so, go to the _Doc_ directory and read the file named _**ServoMotor Driver**_.  
-You can also check the _PCA9685 Datasheet_ which is located in the same directory.   
+To do so, go to the _Doc_ directory and read the file named _**"ServoMotor Driver"**_.  
+You can also check the _**'PCA9685 Datasheet"**_ which is located in the same directory.   
 
 ##### *Now you've learn a bit about PCA9685 it's time to try something more intereing.*  
 
@@ -62,7 +62,7 @@ _**You've almost mastered that**_
 
 ### **Keep it up**   
 
-#### Note that if you want to drive more than 16 Servo motors(A PCA9685 is able to drive 16 Servo motor simultaneously), you must parallel two or more PCA9685 depending on the number of servos you're connecting. To distinguish each PCA, you have to chane its I2C address from the back of the board and according to the address you need to define it in code. The code named _**Two servo driver**_ in _Code_ file ought to help you.
+#### Note that if you want to drive more than 16 Servo motors(A PCA9685 is able to drive 16 Servo motor simultaneously), you must parallel two or more PCA9685 depending on the number of servos you're connecting. To distinguish each PCA, you have to chane its I2C address from the back of the board and according to the address you need to define it in code. The code named _**"Two servo driver"**_ in _Code_ file ought to help you.
 
 
 
