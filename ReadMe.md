@@ -2,7 +2,7 @@
 
 
 #### First of all you need to know what is PCA9685 and how it works.   
-To do so, go to the _Doc_ directory and read the file named _**ServoMotor_Driver**_.  
+To do so, go to the _Doc_ directory and read the file named _**ServoMotor Driver**_.  
 You can also check the _PCA9685 Datasheet_ which is located in the same directory.   
 
 ##### *Now you've learn a bit about PCA9685 it's time to try something more intereing.*  
@@ -36,16 +36,16 @@ Then create an object for your servo like the following code block:
   Adafruit_PWMServoDriver My_servo = Adafruit_PWMServoDriver();
    
 ```
-By this code block your servo name is _"MY_servo"_ in your code.   
+By this code block your servo name is _"MY servo"_ in your code.   
 
 #### **First step**
-To run a simple code and drive a servo you can find the sample code  _**"Driver_PCA9685_One_Servo"**_ which is located in _Codes_ file.   
+To run a simple code and drive a servo you can find the sample code  _**"Driver PCA9685 One Servo"**_ which is located in _Codes_ file.   
 
 **Notice** that you have to set your servo frequency in _void setup_ which for same servo motors are the same.   
 
 ## Change servo position
 
-This code will convert entered desired anlgle to the appropriate pulse width.
+This code will convert entered desired angle to the appropriate pulse width.
 ```c   
 
    Duty = map(Degree, 0, 180, Servo_Min, Servo_Max);
