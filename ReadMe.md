@@ -20,8 +20,8 @@ To understand better you can check [this](https://learn.adafruit.com/16-channel-
 ![Wiring](https://s20.picofile.com/file/8447222642/wiring.png)
 
 ## Codes
-Before run any code note its library is added to your Arduino IDE. The library is "Adafriut PWM Servo Driver"
-if you need help check [this](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use) out. 
+Before run any code note its library is added to your Arduino IDE. The library is "Adafriut PWM Servo Driver"   
+If you need help check [this](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use) out. 
 
 To add its library to the code, we need to call it:
 ```c   
